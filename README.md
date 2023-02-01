@@ -1,6 +1,6 @@
 <h1>Oi, eu sou o Jvbrl</h1>
 
-<img src="https://skills.thijs.gg/icons?i=js,html,css,php,git,mysql,nodejs" alt="My Studies" />
+<img src="https://skills.thijs.gg/icons?i=js,html,css,git,mysql,nodejs" alt="My Studies" />
 
 <h1>Discord</h1>
 
