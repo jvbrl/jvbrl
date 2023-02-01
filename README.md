@@ -6,4 +6,3 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/435234685782589461)](https://discord.com/users/435234685782589461)
 
-![]
