@@ -1,6 +1,6 @@
  <h1>Olá, me chamo joão victor</h1>
 
-<img src="https://skills.thijs.gg/icons?i=js,html,css,git,mysql,nodejs" alt="My Studies" />
+<img src="https://skills.thijs.gg/icons?i=js,html,css,git,nodejs" alt="My Studies" />
 
 <h1>Discord</h1>
 
